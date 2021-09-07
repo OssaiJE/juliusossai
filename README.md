@@ -1,7 +1,7 @@
 # juliusossai
 A statically built website for my portfolio.
 
-#How to Use
+# How to Use
 
 1. Git clone or download and extract files.
 2. Navigate to the folder containing all the files.

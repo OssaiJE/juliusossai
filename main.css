@@ -11123,7 +11123,7 @@ body {
 @media (max-width: 500px) {
   .skills-section {
     margin-bottom: 10rem;
-    padding-bottom: 8rem;
+    padding-bottom: 6rem;
   }
 }
 .skills-section.hidden .skills-boxes-wrapper {

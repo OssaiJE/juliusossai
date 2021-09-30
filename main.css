@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700&amp;display=swap);
-@import url(https://db.onlinewebfonts.com/c/0b51833ff62e4af8acb5fd3e2bf59e97?family=SF+Pro+Display);
 [data-aos][data-aos][data-aos-duration="50"],
 body[data-aos-duration="50"] [data-aos] {
   transition-duration: 50ms;
@@ -9978,7 +9977,7 @@ header {
   font-family: SF Pro Display, sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 7.2rem;
+  font-size: 6rem;
   line-height: 8.6rem;
   color: #fff;
   margin-bottom: 1.6rem;
@@ -10002,6 +10001,22 @@ header {
 }
 @media (max-width: 500px) {
   .hero-wrapper .hero-text-wrapper h3 {
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+  }
+}
+.hero-wrapper .hero-text-wrapper h2 {
+  font-family: SF Pro Display, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.3rem;
+  line-height: 3.1rem;
+  color: #fff;
+  margin-bottom: 2.5rem;
+  text-transform: uppercase;
+}
+@media (max-width: 500px) {
+  .hero-wrapper .hero-text-wrapper h2 {
     font-size: 1.6rem;
     line-height: 1.9rem;
   }

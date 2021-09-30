@@ -21,14 +21,19 @@
     <link href="main.css" rel="stylesheet" />
     <link rel="stylesheet" href="github-calendar.css" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KWLFFJ1TSR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-KWLFFJ1TSR"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-  gtag('config', 'G-KWLFFJ1TSR');
-</script>
+      gtag("config", "G-KWLFFJ1TSR");
+    </script>
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="200">
     <header class="header-section" id="home">
@@ -38,7 +43,7 @@
         data-sticky-class="stuck"
       >
         <div class="container px-4">
-          <a class="navbar-brand" href="#home">
+          <a class="navbar-brand" href="/#home">
             <img src="media/logo.png" height="56px" width="56px" alt="" />
           </a>
           <button
@@ -664,7 +669,11 @@
             action="https://formsubmit.co/ea20f5728d8b20e0ad4a349be665f762"
             method="POST"
           >
-            <input type="hidden" name="_next" value="https://juliusossai.com/thankyou" />
+            <input
+              type="hidden"
+              name="_next"
+              value="https://juliusossai.com/thankyou"
+            />
             <input type="hidden" name="_captcha" value="false" />
             <input type="hidden" name="_template" value="box" />
             <input
@@ -699,7 +708,9 @@
     <footer>
       <div class="container">
         <div>
-          <img src="media/logo.png" height="56px" width="56px" alt="" />
+          <a href="/#home">
+            <img src="media/logo.png" height="56px" width="56px" alt="logo"
+          /></a>
         </div>
         <div>
           <p>&copy; Copyright 2021. All right reserved</p>

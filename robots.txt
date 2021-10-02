@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /media
+Disallow: /thankyou.html
+Disallow: /main.js
+Disallow: /main.css
+Disallow: /github-calendar.css
+Disallow: /github-calendar.min.js

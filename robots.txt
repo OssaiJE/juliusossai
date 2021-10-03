@@ -2,6 +2,7 @@ User-agent: *
 
 Disallow: /media
 Disallow: /thankyou.html
+Disallow: /thankyou
 Disallow: /main.js
 Disallow: /main.css
 Disallow: /github-calendar.css

@@ -9926,7 +9926,7 @@ header {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  padding-bottom: 7rem;
+  padding-bottom: 4rem;
   background: #212121;
   position: relative;
   margin-top: 5%;
@@ -10594,7 +10594,6 @@ body {
   margin: 0 auto;
 }
 .workflow-section .cards-wrapper .card {
-  
   background: inherit;
   cursor: pointer;
 }

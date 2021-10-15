@@ -10960,7 +10960,7 @@ body {
     margin-bottom: 2.9rem;
   }
 }
-/* .about-section .about-text-div a {
+.viewmore a {
   width: 18.7rem;
   height: 4.8rem;
   background: #0fb;
@@ -10973,22 +10973,22 @@ body {
   color: #303030;
 }
 @media (max-width: 965px) {
-  .about-section .about-text-div a {
+  .viewmore a {
     margin: 0 auto;
   }
 }
-.about-section .about-text-div a:hover {
+.viewmore a:hover {
   color: #303030;
   text-decoration: none;
 }
-.about-section .about-text-div a span {
+.viewmore a span {
   font-family: SF Pro Display, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 1.6rem;
   line-height: 1.9rem;
   text-align: center;
-} */
+}
 .page-designs img {
   z-index: -10;
 }

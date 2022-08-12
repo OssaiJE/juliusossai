@@ -10658,22 +10658,22 @@ body {
   object-fit: cover;
 }
 .flex-container .port-container-1:before {
-  background-image: url(https://res.cloudinary.com/kemkem-dev/image/upload/c_fit%2ch_600%2cw_600/v1601063618/portfolio/new-port-1_fdfoiu.jpg);
+  background-image: url(./media/work1.jpg);
 }
 .flex-container .port-container-2:before {
-  background-image: url(https://res.cloudinary.com/kemkem-dev/image/upload/c_fit,h_600,w_600/v1601063618/portfolio/new-port-2_uwlgpl.jpg);
+  background-image: url(./media/work2.jpg);
 }
 .flex-container .port-container-3:before {
-  background-image: url(https://res.cloudinary.com/kemkem-dev/image/upload/c_fit,h_600,w_600/v1601063627/portfolio/new-port-3_cxj8pl.jpg);
+  background-image: url(./media/work3.jpg);
 }
 .flex-container .port-container-4:before {
-  background-image: url(https://res.cloudinary.com/kemkem-dev/image/upload/c_fit,h_600,w_600/v1601063691/portfolio/new-port-4_dlvmpd.jpg);
+  background-image: url(./media/work4.jpg);
 }
 .flex-container .port-container-5:before {
-  background-image: url(https://res.cloudinary.com/kemkem-dev/image/upload/c_fit,h_600,w_600/v1601063695/portfolio/new-port-5_f6hpjs.jpg);
+  background-image: url(./media/work5.jpg);
 }
 .flex-container .port-container-6:before {
-  background-image: url(https://res.cloudinary.com/kemkem-dev/image/upload/c_fit,h_600,w_600/v1601063692/portfolio/new-port-6_uuwkso.jpg);
+  background-image: url(./media/work6.jpg);
 }
 .flex-container .profile-container:hover:before {
   opacity: 0;

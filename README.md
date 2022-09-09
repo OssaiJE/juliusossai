@@ -1,4 +1,4 @@
-# juliusossai
+# Julius Ossai
 A statically built website for my portfolio.
 
 # How to Use
